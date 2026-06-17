@@ -68,16 +68,18 @@ PetroSafe-HSE/
 │   └── src/
 │       └── main/
 │           └── java/mx/uv/petrosafe/
-│               ├── interfaz/               # Módulo 1: Vistas y UI (LoginActivity, MainActivity)
-│               ├── seguridad/              # Módulo 2: Gestor de Seguridad (EppFragment, Normas)
-│               ├── sensores/               # Módulo 3: Sensores y Ventana de Trabajador/es (Dashboard)
-│               └── reportes/               # Módulo 4: Reportes y Alertas de Riesgos (RiesgosFragment)
+│               ├── interfaz/               # Módulo 1: Vistas y UI (LoginActivity.java, MainActivity.java)
+│               ├── seguridad/              # Módulo 2: Gestor de Seguridad (EppFragment.java, NormasFragment.java)
+│               ├── sensores/               # Módulo 3: Sensores y Ventana de Trabajador/es (OperadorDashboard.java)
+│               └── reportes/               # Módulo 4: Reportes y Alertas de Riesgos (RiesgosFragment.java)
 ├── test/                                   # Módulo 5: Suite de Pruebas Unitarias e Integración (JUnit)
 │   ├── MainPrueba.java
 │   ├── IntegracionSistemasTest.java
 │   └── IntegracionSistemasTestTest.java
 ├── .gitignore                              # Archivos y dependencias ignoradas por Git
 └── README.md                               # Documentación principal del proyecto
+└── GuíadeInstalación.md                    # Documentación para instalar correctamente la app
+└── LICENSE                                 # Licencia Oficial MIT que respalda nuestro software
 ```
 
 ---
