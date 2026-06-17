@@ -72,7 +72,7 @@ PetroSafe-HSE/
 │               ├── seguridad/              # Módulo 2: Gestor de Seguridad (EppFragment, Normas)
 │               ├── sensores/               # Módulo 3: Sensores y API de Conectividad
 │               └── reportes/               # Módulo 4: Reportes y Alertas de Riesgos
-├── test/                                   # Suite de Pruebas Unitarias e Integración (JUnit)
+├── test/                                   # Módulo 5: Suite de Pruebas Unitarias e Integración (JUnit)
 │   ├── MainPrueba.java
 │   ├── IntegracionSistemasTest.java
 │   └── IntegracionSistemasTestTest.java
@@ -84,12 +84,12 @@ PetroSafe-HSE/
 
 ## Licencia y Autores
 
-Proyecto de desarrollo  de software colaborativo bajo el marco académico de la **Universidad Veracruzana**  de la carrera de Ingeniería en Tecnologías Computacionales)siguiendo un flujo de trabajo ordenado con **Github Flow**.
+Proyecto de desarrollo  de software colaborativo bajo el marco académico de la **Universidad Veracruzana**  de la carrera de Ingeniería en Tecnologías Computacionales por el Ingeniero **Olmedo García Luis Fernando** siguiendo un flujo de trabajo rápido y continuo con **Github Flow**.
 
 * **José Leonardo** (`emmaleolup-sudo`)- *Módulo 1: Interfaz y Vistas*
-* **Luz Adriana Soto** (`Luz-Soto00`) - *Módulo 2: Gestor de Seguridad*
+* **Luz Adriana Soto** (`Luz-Soto00`) - *Módulo 2 y 4: Gestor de Seguridad y Reportes y Alertas de Riesgos*
 * **Fernanda** (`Fernanda-28`) - *Módulo 3: Sensores y API*
-* **Armando López** (`ArmandoLopez18`) - *Módulo 4: Pruebas Automatizadas*
+* **Armando López** (`ArmandoLopez18`) - *Módulo 5: Pruebas Automatizadas con JUnit*
 
 
 ---
