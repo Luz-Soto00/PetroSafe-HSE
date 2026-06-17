@@ -78,6 +78,7 @@ PetroSafe-HSE/
 │   └── IntegracionSistemasTestTest.java
 ├── .gitignore                              # Archivos y dependencias ignoradas por Git
 └── README.md                               # Documentación principal del proyecto
+└── login.md                                # Responsable de la autenticación de usuarios en la plataforma PetroSafe.
 └── GuíadeInstalación.md                    # Documentación para instalar correctamente la app
 └── LICENSE                                 # Licencia Oficial MIT que respalda nuestro software
 ```
