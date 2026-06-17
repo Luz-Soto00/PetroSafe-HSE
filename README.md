@@ -1,10 +1,10 @@
 # PetroSafe-HSE
 
-**Sistema de monitoreo de gases H2S y gestión de EPP (Equipo de Proteción Personal) para seguridad en obras petroleras**
+**Sistema de monitoreo de gases H2S y gestión de EPP (Equipo de Proteción Personal) para seguridad en obras petroleras**.
 
 ## Descripción
 
-PetroSafe-HSE es un sistema de software desarrollado en Java que permite:
+PetroSafe-HSE es un sistema de software desarrollado en Android Studio usando el lenguaje de programación **Java** que permite:
 
 - Monitorear en tiempo real concentraciones de gas **H2S** (sulfhídrico).
 - Gestionar la entrega y caducidad de **Equipo de Protección Personal (EPP)**.
@@ -43,7 +43,7 @@ PetroSafe-HSE es un sistema de software desarrollado en Java que permite:
 Abre tu Git Bash o terminal (se puede utilizar Visual Studio Code) y ejecuta:
 
 ```bash
-git clone [https://github.com/Luz-Soto00/PetroSafe-HSE.git](https://github.com/Luz-Soto00/PetroSafe-HSE.git)
+git clone https://github.com/Luz-Soto00/PetroSafe-HSE.git
 cd PetroSafe-HSE
 ```
 
