@@ -29,7 +29,7 @@ PetroSafe-HSE es un sistema de software desarrollado en Android Studio usando el
 | :--- | :--- |
 | **Java** | 11 o superior |
 | **NetBeans IDE** | 12.0 o superior (Recomendado) |
-| **Android Studio** | Para el despliegue de su uso en móviles |
+| **Android Studio** | Para el despliegue de su uso en móviles (2025.3.3 o superior)|
 | **Git** | Última versión estable (2.54.0 o superior) |
 | **Sistema Operativo** | Windows / Linux / macOS / Android |
 | **Memoria RAM** | 4 GB mínimo |
@@ -86,10 +86,10 @@ PetroSafe-HSE/
 
 Proyecto de desarrollo  de software colaborativo bajo el marco académico de la **Universidad Veracruzana**  de la carrera de Ingeniería en Tecnologías Computacionales por el Ingeniero **Olmedo García Luis Fernando** siguiendo un flujo de trabajo rápido y continuo con **Github Flow**.
 
-* **José Leonardo** (`emmaleolup-sudo`)- *Módulo 1: Interfaz y Vistas*
-* **Luz Adriana Soto** (`Luz-Soto00`) - *Módulo 2 y 4: Gestor de Seguridad y Reportes y Alertas de Riesgos*
-* **Fernanda** (`Fernanda-28`) - *Módulo 3: Sensores y API*
-* **Armando López** (`ArmandoLopez18`) - *Módulo 5: Pruebas Automatizadas con JUnit*
+* **José Leonardo Vera Pérez** (`emmaleolup-sudo`)- *Módulo 1: Interfaz y Vistas*
+* **Luz Adriana Soto León** (`Luz-Soto00`) - *Módulo 2 y 4: Gestor de Seguridad y Reportes y Alertas de Riesgos*
+* **Fernanda Treviño Peña** (`Fernanda-28`) - *Módulo 3: Sensores y API*
+* **Armando Ernesto López Pattatuchi** (`ArmandoLopez18`) - *Módulo 5: Pruebas Automatizadas con JUnit*
 
 
 ---
