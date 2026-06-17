@@ -70,8 +70,8 @@ PetroSafe-HSE/
 │           └── java/mx/uv/petrosafe/
 │               ├── interfaz/               # Módulo 1: Vistas y UI (LoginActivity, MainActivity)
 │               ├── seguridad/              # Módulo 2: Gestor de Seguridad (EppFragment, Normas)
-│               ├── sensores/               # Módulo 3: Sensores y API de Conectividad
-│               └── reportes/               # Módulo 4: Reportes y Alertas de Riesgos
+│               ├── sensores/               # Módulo 3: Sensores y Ventana de Trabajador/es (Dashboard)
+│               └── reportes/               # Módulo 4: Reportes y Alertas de Riesgos (RiesgosFragment)
 ├── test/                                   # Módulo 5: Suite de Pruebas Unitarias e Integración (JUnit)
 │   ├── MainPrueba.java
 │   ├── IntegracionSistemasTest.java
@@ -88,7 +88,7 @@ Proyecto de desarrollo  de software colaborativo bajo el marco académico de la 
 
 * **José Leonardo Vera Pérez** (`emmaleolup-sudo`)- *Módulo 1: Interfaz y Vistas*
 * **Luz Adriana Soto León** (`Luz-Soto00`) - *Módulo 2 y 4: Gestor de Seguridad y Reportes y Alertas de Riesgos*
-* **Fernanda Treviño Peña** (`Fernanda-28`) - *Módulo 3: Sensores y API*
+* **Fernanda Treviño Peña** (`Fernanda-28`) - *Módulo 3: Sensores y Ventana de Trabajador/es*
 * **Armando Ernesto López Pattatuchi** (`ArmandoLopez18`) - *Módulo 5: Pruebas Automatizadas con JUnit*
 
 
