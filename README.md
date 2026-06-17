@@ -84,7 +84,7 @@ PetroSafe-HSE/
 
 ## Licencia y Autores
 
-Proyecto de desarrollo  de software colaborativo bajo el marco académico de la **Universidad Veracruzana**  de la carrera de Ingeniería en Tecnologías Computacionales por el Ingeniero **Olmedo García Luis Fernando** siguiendo un flujo de trabajo rápido y continuo con **Github Flow**.
+Este proyecto está bajo la **Licencia MIT** - mira el archivo [LICENSE](LICENSE) para más detalles.
 
 * **José Leonardo Vera Pérez** (`emmaleolup-sudo`)- *Módulo 1: Interfaz y Vistas*
 * **Luz Adriana Soto León** (`Luz-Soto00`) - *Módulo 2 y 4: Gestor de Seguridad y Reportes y Alertas de Riesgos*
